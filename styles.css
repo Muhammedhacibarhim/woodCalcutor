@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.container-fluid {
+    background-color: #393939;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 0;
+    margin-bottom: 50px;
+    color: #0bc1c4;
+}
+
+.input-group-append {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.form-control-sm {
+    height: calc(1.5em + .5rem + 9px);
+}
+
+label {
+    color: #0bc1c4;
+    font-size: 18px;
+    font-weight: bold !important;
+    margin-bottom: 5px;
+}
+
